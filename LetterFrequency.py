@@ -3,8 +3,6 @@
 #Date: 9/28/25
 #Assignment: Letter Frequency
 
-#This program will create a CSV file of frequencies based on a text file.
-#Use Excel or similar spreadsheet software to visualize the frequencies of the CSV file.
 
 import os
 
