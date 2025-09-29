@@ -18,10 +18,10 @@ def encode(message, key):
 
     return secret
 
-#def decode(message, key):
+def decode(message, key):
     #We will want to decode the message here.
 
-#def main():
+    def main():
         message = input("Enter a message: ")
         key = int(input("Enter a key: "))
 
@@ -33,3 +33,4 @@ def encode(message, key):
 
 if __name__ == '__main__':
     main()
+#The code won't run to test or find out what's wrong when I have 2 "def" active. 
